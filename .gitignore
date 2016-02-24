@@ -1,0 +1,15 @@
+# Ignore temporary files
+*~
+*.swp
+*.o
+*.bin
+*_scoop.c
+*out*
+*.csv
+
+# Ignore directories and their content
+lib/
+logs/
+
+# Ignore tags file
+tags
