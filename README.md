@@ -1,4 +1,5 @@
 This is the PARTEE runtime, to be presented in IPDPS 2016.
+Nikolaos Papakonstantinou's MSc [thesis](https://dl.dropboxusercontent.com/u/6873550/thesis.pdf)
 
 Nikolaos Papakonstantinou, Foivos S. Zakkak, and Polyvios Pratikakis.
 *Hierarchical parallel dynamic dependence analysis for recursively
